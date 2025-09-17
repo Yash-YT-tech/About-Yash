@@ -51,7 +51,7 @@
 ---
 
 ### 🎯 Progress Bars
-```html
+
 <div align="center">
   <p>Python</p>
   <img src="https://progress-bar.dev/85/?title=Python&width=500&color=blue" />
