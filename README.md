@@ -56,7 +56,7 @@
 ---
 
 ### 📊 Language Usage Progress Bars
-```html
+
 <!-- Custom Progress Bars (via Markdown & HTML mix) -->
 <div>
   <p>Python</p>
