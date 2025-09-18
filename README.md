@@ -10,10 +10,36 @@
 
 ---
 
-### 🚀 About Me
-💡 Passionate about **AI + Web Development + Automation**  
-📚 Always learning **cutting-edge tech**  
-⚡ Love building **interactive projects & AI agents**
+<!-- 🎨 Animated About Me Section -->
+<div align="center">
+
+<!-- Gradient Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C9FF&center=true&vCenter=true&lines=🚀+About+Me;💡+AI+%2B+Web+Development+%2B+Automation;📚+Always+Learning+Cutting-Edge+Tech;⚡+Building+Interactive+Projects+%26+AI+Agents" alt="Typing SVG" />
+</h1>
+
+<!-- Themed Card -->
+<div style="background: linear-gradient(135deg, #00C9FF, #92FE9D); padding: 20px; border-radius: 20px; box-shadow: 0px 0px 20px rgba(0,0,0,0.2); width: 80%;">
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/💡_Passionate_AI-blue?style=for-the-badge&logo=OpenAI&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐_Web_Developer-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/⚡_Automation-yellow?style=for-the-badge&logo=githubactions&logoColor=black" />
+  </p>
+
+  <p align="center">
+    ✨ Passionate about <b>AI + Web Development + Automation</b><br>
+    📚 Always learning <b>cutting-edge tech</b><br>
+    ⚡ Love building <b>interactive projects & AI agents</b>
+  </p>
+
+</div>
+
+<!-- Wave Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=100&section=footer" width="100%"/>
+
+</div>
+
 
 ---
 
