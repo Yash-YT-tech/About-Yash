@@ -10,33 +10,45 @@
 
 ---
 
-<!-- 🎨 Animated About Me Section -->
+<!-- 🚀 Ultimate About Me -->
 <div align="center">
 
-<!-- Gradient Heading -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C9FF&center=true&vCenter=true&lines=🚀+About+Me;💡+AI+%2B+Web+Development+%2B+Automation;📚+Always+Learning+Cutting-Edge+Tech;⚡+Building+Interactive+Projects+%26+AI+Agents" alt="Typing SVG" />
-</h1>
+<!-- 🌈 Animated Gradient Header -->
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=700&lines=🚀+About+Me;💡+AI+%2B+Web+Development+%2B+Automation;⚡+Interactive+Projects+%26+AI+Agents;📚+Always+Learning+Cutting-Edge+Tech" alt="Typing SVG" />
 
-<!-- Themed Card -->
-<div style="background: linear-gradient(135deg, #00C9FF, #92FE9D); padding: 20px; border-radius: 20px; box-shadow: 0px 0px 20px rgba(0,0,0,0.2); width: 80%;">
+<!-- 🌀 Neon Glow Card -->
+<div style="background: linear-gradient(135deg, #00DBDE 0%, #FC00FF 100%);
+            padding: 30px; border-radius: 25px; 
+            box-shadow: 0px 0px 40px rgba(255,0,150,0.7); width: 85%;">
+
+  <h3 align="center">✨ Who Am I?</h3>
 
   <p align="center">
-    <img src="https://img.shields.io/badge/💡_Passionate_AI-blue?style=for-the-badge&logo=OpenAI&logoColor=white" />
-    <img src="https://img.shields.io/badge/🌐_Web_Developer-green?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/⚡_Automation-yellow?style=for-the-badge&logo=githubactions&logoColor=black" />
+    <img src="https://img.shields.io/badge/AI-Engineer-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Web-Developer-00C9FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Automation-Specialist-FFD700?style=for-the-badge&logo=githubactions&logoColor=black" />
   </p>
 
   <p align="center">
-    ✨ Passionate about <b>AI + Web Development + Automation</b><br>
-    📚 Always learning <b>cutting-edge tech</b><br>
-    ⚡ Love building <b>interactive projects & AI agents</b>
+    💡 <b>Passionate about AI, Web Development, and Automation</b><br>
+    📚 <b>Always exploring cutting-edge technologies</b><br>
+    ⚡ <b>Love creating interactive projects & AI agents</b>
   </p>
 
 </div>
 
-<!-- Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00C9FF&height=100&section=footer" width="100%"/>
+<!-- 🌌 Cool Transitions -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FC00FF&height=120&section=footer&animation=twinkling" width="100%" />
+
+<!-- 🎇 Animated Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode" />
+</p>
+
+<!-- 🔥 Animated Streaks & Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 </div>
 
