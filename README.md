@@ -40,14 +40,11 @@
 <!-- 🌌 Cool Transitions -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FC00FF&height=120&section=footer&animation=twinkling" width="100%" />
 
-<!-- 🎇 Animated Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github,vscode" />
-</p>
+
 
 <!-- 🔥 Animated Streaks & Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yash-YT-tech&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 </div>
