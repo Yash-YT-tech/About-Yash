@@ -32,7 +32,7 @@
   <p align="center">
     💡 <b>Passionate about AI, Web Development, and Automation</b><br>
     📚 <b>Always exploring cutting-edge technologies</b><br>
-    ⚡ <b>Love creating interactive projects & AI agents & Workflow</b>
+    ⚡ <b>Love creating interactive projects & AI agents & Workflow</b> 
   </p>
 
 </div>
