@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F70000&center=true&vCenter=true&lines=AI+Engineer+in+Making;Full+Stack+Developer;Generative+AI+Explorer;Will+be+Open+Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F70000&center=true&vCenter=true&lines=AI+Engineer+in+Making;Full+Stack+Developer+in+Making;Generative+AI+Explorer;Will+be+Open+Source+Contributor" />
 </p>
 
 ---
