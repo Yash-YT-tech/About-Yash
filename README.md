@@ -73,7 +73,7 @@
 
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yash-YT-tech&theme=onedark&column=6" />
 </p>
 
 ---
