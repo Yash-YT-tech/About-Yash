@@ -80,7 +80,7 @@
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yash-YT-tech&theme=react-dark&hide_border=true" />
 </p>
 
 ---
